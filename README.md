@@ -1,2 +1,2 @@
-# FLO CLTV-Prediction
-Customer Lifetime Prediction with BG/NBD and Gamma Gamma Models
+# CLTV-Prediction
+FLO Customer Lifetime Prediction with BG/NBD and Gamma Gamma Models
